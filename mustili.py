@@ -23,16 +23,10 @@ async def on_message(message):
     if message.content.startswith('Whos here?'):
        print( discord.get_all_messages() )
        await discord.send_message(message.channel, client.get_all_messages())
-    if message.content.startswith('Follow me'):# and has_followed == False:
-       msg = await client.wait_for_message(author=message.author)
-       await client.accept_invite(msg.content)
-       print( msg.content )
-       await client.send_message(message.channel, 'Now Following.')
-       has_followed = True
-       return
+
     if message.content.startswith('Otters be gone!'):
        await client.send_message(message.channel, 'Later! OwO')
        quit()
 
-       
+
 client.run('MzY3ODE1MjQwMzI4NDEzMTg0.DMA6tw.pV1-lbe9Hz3xU_YdtyVLde9j5kE')

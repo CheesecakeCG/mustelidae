@@ -2,6 +2,10 @@ import discord
 import asyncio
 import os
 
+sync def load_client_id():
+    f = open("clientid","r")
+    return f.read()
+
 
 client = discord.Client()
 
@@ -29,4 +33,4 @@ async def on_message(message):
        quit()
 
 
-client.run('MzY3ODE1MjQwMzI4NDEzMTg0.DMA6tw.pV1-lbe9Hz3xU_YdtyVLde9j5kE')
+client.run(load_client_id())

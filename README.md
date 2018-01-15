@@ -1,3 +1,3 @@
 # mustelidae
 An Otter Themed Discord Chatbot, for my friends. 
-He won't get good enough hosting for anyone else to use him really, so I want fork this for your own server, go ahead!
+My little robot otter won't be getting good enough hosting for everyone to use him, so if you want fork this for your own server, go ahead!

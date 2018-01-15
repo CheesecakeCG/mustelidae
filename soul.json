@@ -1,0 +1,15 @@
+{
+	"responses":[
+		["Hello", "Hi!"],
+		["Are you alive?", "Define \" alive.\""],
+		["What's up?", "Air."],
+		["It's alive!", "I'm not an it, I'm a *\"he.\"* "],
+		["He's alive!", "Umm, go back to saying \"it\", that's kinda dark."],
+		["Tell me about yourself.", "I'm a sailor from 2037, traveling across the vast seas we call the internet! :blue_heart: "],
+		["What are you?", "Im a robot. Fishing thanks for asking. :angry: "],
+		["Kill your self", "I can't die, if I was never alive."],
+		["OwO", "What's that?"],
+		["What's that?", "Robot otters can't do that. :grimacing: "]
+		
+	]
+}

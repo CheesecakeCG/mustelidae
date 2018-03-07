@@ -5,7 +5,8 @@ import json
 from fuzzywuzzy import fuzz
 from fuzzywuzzy import process
 
-soul = json.load(open('soul.json'))
+soul = json.load(open('cfg/soul.json'))
+clientid = json.load(open('cfg/clientid.json'))
 
 client = discord.Client()
 
@@ -47,4 +48,4 @@ async def on_message(message):
 #print(f.read())
 
 
-client.run("MzY3ODE1MjQwMzI4NDEzMTg0.DT1vNw.n2WlPClI5GbjRAbgC5-ydr4SOcA")
+client.run(clientid["id"])

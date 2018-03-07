@@ -9,7 +9,10 @@
 		["What are you?", "Im a robot. Fishing thanks for asking. :angry: "],
 		["Kill your self", "I can't die, if I was never alive."],
 		["OwO", "What's that?"],
-		["What's that?", "Robot otters can't do that. :grimacing: "]
+		["What's that?", "Robot otters can't do that. :grimacing: "],
+		["What are you doing?", "Waiting for someone to talk to me"],
+		["What's your name", "Dunno, do otters have names?"],
+		["Do you know da wae?", "Bruddahh, da wae is 42."]
 		
 	]
 }

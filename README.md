@@ -1,4 +1,4 @@
 # mustelidae
-## An Otter Themed Discord Chatbot, for my friends. 
+## An Otter Themed Discord Chatbot. 
 
-This little robot otter won't be getting good enough hosting for everyone to use him, so if you want fork this for your own server, go ahead!
+Yes it's cute, but don't expect me to host it for y'all. XD
